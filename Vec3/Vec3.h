@@ -27,6 +27,7 @@ public:
 	Vec3 operator-(const Vec3& vec);
 	Vec3 &operator+=(const Vec3& vec);
 	Vec3 &operator-=(const Vec3& vec);
+	Vec3 operator=(const Vec3& vec);
 	Vec3 &operator==(const Vec3& vec);
 
 	Vec3 normalize();

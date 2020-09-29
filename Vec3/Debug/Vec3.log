@@ -1,9 +1,9 @@
 ﻿  Vec3.cpp
-C:\Users\preda\Desktop\Vec3\Vec3.cpp(11,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
-C:\Users\preda\Desktop\Vec3\Vec3.cpp(62,4): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
-C:\Users\preda\Desktop\Vec3\Vec3.cpp(63,4): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
-C:\Users\preda\Desktop\Vec3\Vec3.cpp(64,4): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
-C:\Users\preda\Desktop\Vec3\Vec3.cpp(72,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\preda\Desktop\Vec3\Vec3.cpp(108,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\preda\Desktop\Vec3\Vec3.cpp(112,9): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
-  Vec3.vcxproj -> C:\Users\preda\Desktop\Vec3\Debug\Vec3.exe
+C:\Users\preda\OneDrive\Documentos\GitHub\Class-Vec3\Vec3\Vec3.cpp(11,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\preda\OneDrive\Documentos\GitHub\Class-Vec3\Vec3\Vec3.cpp(69,4): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\preda\OneDrive\Documentos\GitHub\Class-Vec3\Vec3\Vec3.cpp(70,4): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\preda\OneDrive\Documentos\GitHub\Class-Vec3\Vec3\Vec3.cpp(71,4): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\preda\OneDrive\Documentos\GitHub\Class-Vec3\Vec3\Vec3.cpp(79,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\preda\OneDrive\Documentos\GitHub\Class-Vec3\Vec3\Vec3.cpp(115,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\preda\OneDrive\Documentos\GitHub\Class-Vec3\Vec3\Vec3.cpp(119,9): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  Vec3.vcxproj -> C:\Users\preda\OneDrive\Documentos\GitHub\Class-Vec3\Vec3\Debug\Vec3.exe

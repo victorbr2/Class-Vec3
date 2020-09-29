@@ -57,6 +57,13 @@ Vec3 &Vec3::operator-=(const Vec3& vec)
 	return *this;
 }
 
+Vec3 Vec3 ::operator=(const Vec3& vec)
+{
+
+	return Vec3(x = vec.x, y = vec.y, z = vec.z);
+
+}
+
 Vec3& Vec3::operator==(const Vec3& vec)
 {
 	x == vec.x;
@@ -99,7 +106,7 @@ Vec3 Vec3::is_zero()
 }
 
 
-int Vec3::distance_to(Vec3 a1, Vec3 b1)
+int Vec3::distance_to(Vec3 a1, Vec3 b1) // Work in progress
 {
 	float dist;
 	a = a1;
